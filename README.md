@@ -12,3 +12,6 @@
 #### Images to train and test a fruits image classifier
 - 240 images for training
 - 60 images of same for testing
+
+#### Additional training images added
+- 158 additional images added for training and to balance the dataset
